@@ -1,0 +1,75 @@
+.body{
+	background: lightblue;
+}
+
+.principal{
+	background: lightblue;
+	margin: auto;
+	width: 100%;
+}
+
+
+.arriba{
+	width: 1100px;
+	height: 120px;
+}
+
+.logo{
+	float: left;
+	width: 220px;
+	height: 120px;	
+	
+}
+
+.slogan{
+	float:left;
+	width: 400px;
+	height: 50px;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+.enlaces{
+	float: left; 
+	width: 300px;
+	height: 50px;
+	margin-top: 50px;
+}
+
+.ofertas{
+	background: lightgreen;
+	margin-top: 5px;
+	width: 100%;
+	height: 50%;
+}
+
+.descOffer{
+	font-family: Arial;
+	font-size: 30px;
+}
+
+.miscelanea{
+	background: lightblue;
+	width: 100%;
+	height: 30%;
+}
+
+.divBtn1{
+	align-content: center;
+	background: lightgray;
+	border-style: outset;
+	width: 90px;
+	height:90px;
+}
+
+input.divBtn2{
+	cursor: hand;
+	cursor: pointer;
+	opacity: .9;
+	background-color: lightgray;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	text-decoration: none;
+}
